@@ -1,0 +1,17 @@
+Cloud storage service,IoT device support,Virtual assistant service,Cloud backup service,Services,Number of services
+No,No,No,No,No devices,0
+Yes,No,No,No,Cloud storage,1
+No,Yes,No,No,IoT device support,1
+No,No,Yes,No,Virtual assistant service,1
+No,No,No,Yes,Cloud backup,1
+Yes,Yes,No,No,"Cloud storage, IoT device support",2
+Yes,No,Yes,No,"Cloud storage, Virtual assistant service",2
+Yes,No,No,Yes,"Cloud storage, Cloud backup",2
+No,Yes,Yes,No,"IoT device support, Virtual assistant",2
+No,Yes,No,Yes,"IoT device support, Cloud backup",2
+No,No,Yes,Yes,"Virtual assistant service, Cloud backup",2
+Yes,Yes,Yes,No,"Cloud storage, IoT device support, Virtual assistant service",3
+Yes,Yes,No,Yes,"Cloud storage, IoT device support, Cloud backup",3
+Yes,No,Yes,Yes,"Cloud storage, Virtual assistant service, Cloud backup",3
+No,Yes,Yes,Yes,"IoT device support, Virtual assistant service, Cloud backup",3
+Yes,Yes,Yes,Yes,"Cloud storage, IoT device support, Virtual assistant service, Cloud backup",4

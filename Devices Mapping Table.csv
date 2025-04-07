@@ -1,0 +1,17 @@
+Dedicated home computer,Owns smart device,Owns gaming console,Smart home devices,Devices,Number of devices
+No,No,No,No,No devices,0
+Yes,No,No,No,Home computer,1
+No,Yes,No,No,Smart device,1
+No,No,Yes,No,Gaming console,1
+No,No,No,Yes,Smart home device,1
+Yes,Yes,No,No,"Home computer, Smart device",2
+Yes,No,Yes,No,"Home computer, Gaming console",2
+Yes,No,No,Yes,"Home computer, Smart home device",2
+No,Yes,Yes,No,"Smart device, Gaming console",2
+No,Yes,No,Yes,"Smart device, Smart home device",2
+No,No,Yes,Yes,"Gaming console, Smart home device",2
+Yes,Yes,Yes,No,"Home computer, Smart device, Gaming console",3
+Yes,Yes,No,Yes,"Home computer, Smart device, Smart home device",3
+Yes,No,Yes,Yes,"Home computer, Gaming console, Smart home device",3
+No,Yes,Yes,Yes,"Smart device, Gaming console, Smart home device",3
+Yes,Yes,Yes,Yes,"Home computer, Smart device, Gaming console, Smart home device",4

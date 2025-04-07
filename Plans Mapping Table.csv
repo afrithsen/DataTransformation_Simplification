@@ -1,0 +1,17 @@
+Plans,Number of Plans
+No plans,0
+Family plan,1
+Home internet plan,1
+International plan,1
+Wireless data plan,1
+"Family plan, Home internet plan",2
+"International plan, Family plan",2
+"International plan, Home internet plan",2
+"International plan, Wireless data plan",2
+"Wireless data plan, Family plan",2
+"Wireless data plan, Home internet plan",2
+"International plan, Family plan, Home internet plan",3
+"International plan, Wireless data plan, Family plan",3
+"Wireless data plan, Family plan, Home internet plan",3
+"International plan, Wireless data plan, Home internet plan",3
+"International plan, Wireless data plan, Family plan, Home internet plan",4

@@ -1,0 +1,33 @@
+Equipment subscription,Video streaming add-on,Smart home monitoring,Financial News streaming subscription,Mobile security package,Subscriptions,Number of subscriptions
+No,No,No,No,No,No subscriptions,0
+Yes,No,No,No,No,Equipment,1
+No,Yes,No,No,No,Video streaming,1
+No,No,Yes,No,No,Smart home monitoring,1
+No,No,No,Yes,No,Financial News streaming,1
+No,No,No,No,Yes,Mobile security,1
+Yes,Yes,No,No,No,"Equipment, Video streaming",2
+Yes,No,Yes,No,No,"Equipment, Smart home monitoring",2
+Yes,No,No,Yes,No,"Equipment, Financial News streaming",2
+Yes,No,No,No,Yes,"Equipment, Mobile security",2
+No,Yes,Yes,No,No,"Video streaming, Smart home monitoring",2
+No,Yes,No,Yes,No,"Video streaming, Financial News streaming",2
+No,Yes,No,No,Yes,"Video streaming, Mobile security",2
+No,No,Yes,Yes,No,"Smart home monitoring, Financial News streaming",2
+No,No,Yes,No,Yes,"Smart home monitoring, Mobile security",2
+No,No,No,Yes,Yes,"Financial News streaming, Mobile security",2
+Yes,Yes,Yes,No,No,"Equipment, Video streaming, Smart home monitoring",3
+Yes,Yes,No,Yes,No,"Equipment, Video streaming, Financial News streaming",3
+Yes,Yes,No,No,Yes,"Equipment, Video streaming, Mobile security",3
+Yes,No,Yes,Yes,No,"Equipment, Smart home monitoring, Financial News streaming",3
+Yes,No,Yes,No,Yes,"Equipment, Smart home monitoring, Mobile security",3
+Yes,No,No,Yes,Yes,"Equipment, Financial News streaming, Mobile security",3
+No,Yes,Yes,Yes,No,"Video streaming, Smart home monitoring, Financial News streaming",3
+No,Yes,Yes,No,Yes,"Video streaming, Smart home monitoring, Mobile security",3
+No,Yes,No,Yes,Yes,"Video streaming, Financial News streaming, Mobile security",3
+No,No,Yes,Yes,Yes,"Smart home monitoring, Financial News streaming, Mobile Security",3
+Yes,Yes,Yes,Yes,No,"Equipment, Video streaming, Smart home monitoring, Financial News streaming",4
+Yes,Yes,Yes,No,Yes,"Equipment, Video streaming, Smart home monitoring, Mobile security",4
+Yes,Yes,No,Yes,Yes,"Equipment, Video streaming, Financial News streaming, Mobile security",4
+Yes,No,Yes,Yes,Yes,"Equipment, Smart home monitoring, Financial News streaming, Mobile security",4
+No,Yes,Yes,Yes,Yes,"Video streaming, Smart home monitoring, Financial News streaming, Mobile security",4
+Yes,Yes,Yes,Yes,Yes,"Equipment, Video streaming, Smart home monitoring, Financial News streaming, Mobile security",5
